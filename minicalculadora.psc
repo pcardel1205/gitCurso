@@ -1,10 +1,10 @@
 Algoritmo minicalculadora
   Definir num_a, num_b, num_res como Real
   Definir opcion como Entero
-  
-  Escribir "Introducir numero a"
+  Escribir "Bienvenidos a la minicalculadora"
+  Escribir "Introducir el primer numero"
   leer num_a
-  Escribir "Introducir numero b"
+  Escribir "Introducir el segundo numero"
   leer num_b
   Escribir "Introducir 1(suma), 2(resta)"
   leer opcion
